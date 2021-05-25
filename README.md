@@ -1,15 +1,13 @@
 # Socket.io chat application tutorial code
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
 
 
 ## About <a name = "about"></a>
 
 This is a web application that allows the user to chat between browsers. 
+## Usage <a name = "usage"></a>
+
+![](https://media1.giphy.com/media/LP4gBgfppLxICAgDB2/giphy.gif?cid=790b7611f4fe844228bcb143f9a9abb9c19b44468c42dd94&rid=giphy.gif&ct=g)
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -40,6 +38,3 @@ go to this site.
 
 
 
-## Usage <a name = "usage"></a>
-
-![](https://media1.giphy.com/media/LP4gBgfppLxICAgDB2/giphy.gif?cid=790b7611f4fe844228bcb143f9a9abb9c19b44468c42dd94&rid=giphy.gif&ct=g)
