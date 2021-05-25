@@ -33,11 +33,8 @@ To run this application, you need an updated node js installed.
 -enter a username in both windows, and enter the same room to start chatting
 -this can also be deployed to use across the internet
 
-```
-Example
-```
 
-For a full stack version of this application with a backend,, 
+For a full stack version of this application with a backend, 
 go to this site. 
 [CosmicChat](https://cosmic-chatcord.herokuapp.com/)
 
