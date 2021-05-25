@@ -34,7 +34,7 @@ To run this application, you need an updated node js installed.
 -this can also be deployed to use across the internet
 
 ```
-Give the example
+Example
 ```
 
 For a full stack version of this application with a backend,, 
