@@ -21,7 +21,7 @@ To run this application, you need an updated node js installed.
 
 ### Installing
 
--Clone the repo
+-Clone the repo to your system
 -run npm install in the base directory and the sub directories
 -Open 2 terminals
 -cd to client and npm start in the first terminal 
