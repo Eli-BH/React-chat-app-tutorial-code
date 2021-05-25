@@ -11,7 +11,7 @@ This is a web application that allows the user to chat between browsers.
 
 ## Getting Started <a name = "getting_started"></a>
 
-To get started, all you have to do is clone the repo, open 2 terminals, one for the client
+To get start the application, all you have to do is clone the repo, open 2 terminals, one for the client
 and one for the server. Start with npm start on the client side, and npm start on the server side.
 
 ### Prerequisites
